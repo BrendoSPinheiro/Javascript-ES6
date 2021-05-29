@@ -1,7 +1,7 @@
 <h1 style="text-align: center">JavaScript moderno</h1>
 
-- [ ] Arrow Functions
-  - [ ] This
+- [x] Arrow Functions
+  - [x] This
   - [ ] Arguments
 - [ ] Parâmetros default em funções
 - [ ] Operadores Destructuring, Rest, Spread operators
