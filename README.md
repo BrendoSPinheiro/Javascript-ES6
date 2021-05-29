@@ -3,7 +3,7 @@
 - [x] Arrow Functions
   - [x] This
   - [x] Arguments
-- [ ] Parâmetros default em funções
+- [x] Parâmetros default em funções
 - [ ] Operadores Destructuring, Rest, Spread operators
 - [ ] Template strings
 - [ ] Promises
